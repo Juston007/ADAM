@@ -1,0 +1,16 @@
+﻿<Window x:Class="AdamDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded_1" Closed="Window_Closed_1">
+    <Grid>
+        <Label Content="温度" HorizontalAlignment="Left" Margin="69,66,0,0" VerticalAlignment="Top"/>
+        <Label Content="湿度" HorizontalAlignment="Left" Margin="69,109,0,0" VerticalAlignment="Top"/>
+        <Label Content="烟雾" HorizontalAlignment="Left" Margin="69,153,0,0" VerticalAlignment="Top"/>
+        <Label Content="火焰" HorizontalAlignment="Left" Margin="69,192,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblSmork" Content="N/A" HorizontalAlignment="Left" Margin="138,153,0,0" VerticalAlignment="Top" Width="69"/>
+        <Label x:Name="lblHumdity" Content="N/A" HorizontalAlignment="Left" Margin="138,109,0,0" VerticalAlignment="Top" Width="69"/>
+        <Label x:Name="lblTemp" Content="N/A" HorizontalAlignment="Left" Margin="138,66,0,0" VerticalAlignment="Top" Width="69"/>
+        <Label x:Name="lblFire" Content="N/A" HorizontalAlignment="Left" Margin="138,192,0,0" VerticalAlignment="Top" Width="69"/>
+
+    </Grid>
+</Window>

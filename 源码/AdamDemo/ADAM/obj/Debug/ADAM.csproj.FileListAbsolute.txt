@@ -1,0 +1,41 @@
+c:\users\administrator\documents\visual studio 2012\Projects\ADAM\ADAM\obj\Debug\ADAM.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\ADAM\ADAM\bin\Debug\ADAM.dll
+c:\users\administrator\documents\visual studio 2012\Projects\ADAM\ADAM\bin\Debug\ADAM.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\ADAM\ADAM\obj\Debug\ADAM.dll
+c:\users\administrator\documents\visual studio 2012\Projects\ADAM\ADAM\obj\Debug\ADAM.pdb
+D:\开发资料\Demo\ADAM\ADAM\bin\Debug\ADAM.dll
+D:\开发资料\Demo\ADAM\ADAM\bin\Debug\ADAM.pdb
+D:\开发资料\Demo\ADAM\ADAM\obj\Debug\ADAM.csprojResolveAssemblyReference.cache
+D:\开发资料\Demo\ADAM\ADAM\obj\Debug\ADAM.dll
+D:\开发资料\Demo\ADAM\ADAM\obj\Debug\ADAM.pdb
+D:\开发资料\ADAM模拟数字\ADAM\ADAM\obj\Debug\ADAM.csprojResolveAssemblyReference.cache
+D:\开发资料\ADAM模拟数字\ADAM\ADAM\obj\Debug\ADAM.dll
+D:\开发资料\ADAM模拟数字\ADAM\ADAM\obj\Debug\ADAM.pdb
+D:\开发资料\ADAM模拟数字\ADAM\ADAM\bin\Debug\ADAM.dll
+D:\开发资料\ADAM模拟数字\ADAM\ADAM\bin\Debug\ADAM.pdb
+D:\开发资料\ADAM模拟数字底层实现\源码\ADAM\obj\Debug\ADAM.csprojResolveAssemblyReference.cache
+D:\开发资料\ADAM模拟数字底层实现\源码\ADAM\obj\Debug\ADAM.dll
+D:\开发资料\ADAM模拟数字底层实现\源码\ADAM\obj\Debug\ADAM.pdb
+D:\开发资料\ADAM模拟数字底层实现\源码\ADAM\bin\Debug\ADAM.dll
+D:\开发资料\ADAM模拟数字底层实现\源码\ADAM\bin\Debug\ADAM.pdb
+D:\开发资料\Demo\ADAM模拟数字底层实现\源码\ADAM\obj\Debug\ADAM.csprojResolveAssemblyReference.cache
+D:\开发资料\Demo\ADAM模拟数字底层实现\源码\ADAM\obj\Debug\ADAM.dll
+D:\开发资料\Demo\ADAM模拟数字底层实现\源码\ADAM\bin\Debug\ADAM.dll
+D:\开发资料\Demo\ADAM模拟数字底层实现\源码\ADAM\bin\Debug\ADAM.pdb
+D:\开发资料\Demo\ADAM模拟数字底层实现\源码\ADAM\obj\Debug\ADAM.pdb
+E:\底层实现ADAM模数\源码\ADAM\bin\Debug\ADAM.dll
+E:\底层实现ADAM模数\源码\ADAM\bin\Debug\ADAM.pdb
+E:\底层实现ADAM模数\源码\ADAM\obj\Debug\ADAM.csprojResolveAssemblyReference.cache
+E:\底层实现ADAM模数\源码\ADAM\obj\Debug\ADAM.dll
+E:\底层实现ADAM模数\源码\ADAM\obj\Debug\ADAM.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AdamDemo\ADAM\bin\Debug\ADAM.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AdamDemo\ADAM\bin\Debug\ADAM.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AdamDemo\ADAM\obj\Debug\ADAM.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AdamDemo\ADAM\obj\Debug\ADAM.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AdamDemo\ADAM\obj\Debug\ADAM.pdb
+E:\WORK\Code\Github\ADAM\源码\AdamDemo\ADAM\bin\Debug\ADAM.dll
+E:\WORK\Code\Github\ADAM\源码\AdamDemo\ADAM\bin\Debug\ADAM.pdb
+E:\WORK\Code\Github\ADAM\源码\AdamDemo\ADAM\obj\Debug\ADAM.csprojAssemblyReference.cache
+E:\WORK\Code\Github\ADAM\源码\AdamDemo\ADAM\obj\Debug\ADAM.csproj.CoreCompileInputs.cache
+E:\WORK\Code\Github\ADAM\源码\AdamDemo\ADAM\obj\Debug\ADAM.dll
+E:\WORK\Code\Github\ADAM\源码\AdamDemo\ADAM\obj\Debug\ADAM.pdb
