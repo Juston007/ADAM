@@ -7,6 +7,9 @@ using System.IO.Ports;
 
 namespace ADAM
 {
+    /// <summary>
+    /// Written By Juston
+    /// </summary>
     public class ADAM4017 : ADAM
     {
         private int[] vin = new int[8];

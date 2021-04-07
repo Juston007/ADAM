@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace ADAM
 {
+    /// <summary>
+    /// Written By Juston
+    /// </summary>
     class Util
     {
         /// <summary>

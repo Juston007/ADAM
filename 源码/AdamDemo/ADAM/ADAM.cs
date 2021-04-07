@@ -8,6 +8,9 @@ using System.Collections;
 
 namespace ADAM
 {
+    /// <summary>
+    /// Written By Juston
+    /// </summary>
     public class ADAM
     {
         /// <summary>

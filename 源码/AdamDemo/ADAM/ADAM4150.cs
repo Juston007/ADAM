@@ -7,6 +7,9 @@ using System.IO.Ports;
 
 namespace ADAM
 {
+    /// <summary>
+    /// Written By Juston
+    /// </summary>
     public class ADAM4150 : ADAM
     {
         private bool[] dI = new bool[7];
